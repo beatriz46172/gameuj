@@ -33,7 +33,7 @@ Descarregar tambem a musica e por na pasta do projeto
 
 |Nome  |Link  |  
 |---|---| 
-|Python  |[Ver aqui](https://www.python.org/)  |  
+|Python  |[Ver aqui](https://github.com/beatriz46172/gameuj/blob/master/FugaAosQuadrados.py)|  
 
 
 ***  
