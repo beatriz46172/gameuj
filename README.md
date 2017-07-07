@@ -3,14 +3,14 @@
 ### Fuga aos Quadrados
 
 "Fuga aos quadrados é um jogo em que o principal objetivo é fugir dos inimigos. Tal como em todos os jogos, deves tentar bater o teu próprio highsco
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+##### [Vídeo aqui](https://mega.nz/#!xj51nJwQ!30GYYYyTKSvmpJ4udSf1XlxQSRbzzjRUFjaJpxKT4uM)  
   
 #### Autores  
 
 |Nome  |E-mail  |  
 |---|---|    
 |Beatriz Bessa|[Email](mailto:chamo.me.bia@gmail.com)|
-|Lídia Sousa|[Email](mailto:lidia.sousa2001@outlook.com)]
+|Lídia Sousa|[Email](mailto:lidia.sousa2001@outlook.com)|
 |Bernardo Carrilho|[Email](bernardo@carrilho.org)|
 |Henrique Nunes|[Email](hrn2001@gmail.com)|
 
