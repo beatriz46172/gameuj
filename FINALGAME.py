@@ -199,7 +199,7 @@ def menu():
                         break
 
 sense = SenseHat()
-e = timedelta(seconds=2)
+e = timedelta(seconds=45)
 elapsed = timedelta(seconds=0)
 sense.set_rotation(180)
 
